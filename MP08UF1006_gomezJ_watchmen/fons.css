@@ -1,0 +1,25 @@
+
+html {
+    height: 100%
+}
+body {
+    background-image: linear-gradient(
+      45deg,
+      hsl(278deg 67% 60%) 0%,
+      hsl(262deg 78% 69%) 8%,
+      hsl(246deg 88% 77%) 17%,
+      hsl(233deg 96% 80%) 25%,
+      hsl(224deg 98% 81%) 33%,
+      hsl(218deg 93% 84%) 42%,
+      hsl(214deg 80% 88%) 50%,
+      hsl(224deg 92% 87%) 58%,
+      hsl(243deg 89% 86%) 67%,
+      hsl(269deg 75% 81%) 75%,
+      hsl(297deg 57% 73%) 83%,
+      hsl(320deg 78% 70%) 92%,
+      hsl(333deg 94% 66%) 100%
+    );
+  }
+  img {
+    width: 10%
+  }
